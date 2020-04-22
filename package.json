@@ -35,5 +35,17 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "## Objectives",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukshanuddin/react-using-callbacks-to-pass-information-lab-online-web-ft-120919.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rukshanuddin/react-using-callbacks-to-pass-information-lab-online-web-ft-120919/issues"
+  },
+  "homepage": "https://github.com/rukshanuddin/react-using-callbacks-to-pass-information-lab-online-web-ft-120919#readme"
 }
